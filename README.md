@@ -1,0 +1,1 @@
+# Model-na-pocitanie-objektov-v-obraze
